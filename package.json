@@ -1,7 +1,7 @@
 {
-  "name": "spawnpoint",
-  "description": "SpawnPoint for new React Native Application",
-  "version": "1.0.0",
+  "name": "quickbooks",
+  "description": "Make reading a bit more memorable",
+  "version": "0.0.1",
   "main": "expo-router/entry",
   "scripts": {
     "start": "EXPO_NO_DOTENV=1 expo start",

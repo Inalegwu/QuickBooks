@@ -3,8 +3,8 @@ import { ClientEnv } from "./env";
 
 export default ({ config }: ConfigContext): ExpoConfig => ({
   ...config,
-  name: "SpawnPoint",
-  slug: "spawn-point",
+  name: "QuickBooks",
+  slug: "QuickBooks",
   extra: {
     ...ClientEnv,
   },
